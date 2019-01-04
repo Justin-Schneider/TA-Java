@@ -1,6 +1,6 @@
 # University of South Carolina
 
-##CSCE 145 - Algorithmic Design I
+## CSCE 145 - Algorithmic Design I
 
 ### Fall and Spring 2018
 
